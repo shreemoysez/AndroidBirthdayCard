@@ -1,0 +1,7 @@
+#Mon Oct 10 01:27:15 IST 2016
+base.0=C\:\\Users\\TILU\\AndroidStudioProjects\\Birthdaycard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_148f238394c6a3842db97aeb21bcbbbeaab124a5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\TILU\\AndroidStudioProjects\\Birthdaycard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_061f71c78515b3608a48292b39fb89cb0481a46f\\classes.dex
+base.1=C\:\\Users\\TILU\\AndroidStudioProjects\\Birthdaycard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_061f71c78515b3608a48292b39fb89cb0481a46f
+file.0=C\:\\Users\\TILU\\AndroidStudioProjects\\Birthdaycard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_148f238394c6a3842db97aeb21bcbbbeaab124a5\\classes.dex

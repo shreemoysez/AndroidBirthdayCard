@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d81d678b7a4f8874d205ff15501d54948f0ebc13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_555eab2febfdb1c3d621b1b13e018ba7f62d252b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f323f53767bb911f64af2b29677f0a960c30911d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_0ff8ccfc5987d1e4540ed4ac2ab014d079db26c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8be3cd15fb7c554ada5716b279519d3a1ce23e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d4a680870510d7a7ae12d306342beb6b453fb222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_45ce42a3d1eb4f5cd4a1cf2b2630d4436e020581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="879fa65cbe91744aac0c21c8c587f588cd7e062c">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_061f71c78515b3608a48292b39fb89cb0481a46f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_217c07fc66eddba11c6c7ea0dd0bc4b43411fde3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2aaa07bbaf6591690d677c5841802e0968770ef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e285137dcb4bf2b5f2b780661b9e9b51c895d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="221c906fc49320ac9b5e34755a56359586dd8de8">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_148f238394c6a3842db97aeb21bcbbbeaab124a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_044eeb1eff46b6ba6b3128eaef3c3b51a48aa8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b439d7e9cfc110d2add477bac0ebdd716d637715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_48556439ab2250cfc935df3e8e683dd2a9703907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ea927933f4fdf9c92a5d6200112c511b4b0ff9de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TILU\AndroidStudioProjects\Birthdaycard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a893934ff3177dc62924946c1428635a0e73d36a\classes.dex" />
+    </item>
+
+</items>
